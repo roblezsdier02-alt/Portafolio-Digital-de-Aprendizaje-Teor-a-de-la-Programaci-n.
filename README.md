@@ -141,9 +141,11 @@ public class CuboDatos {
 }
 ```
 
-> 📸 **ACCIÓN REQUERIDA (Creatividad - 2 pts):**  
-> *Agrega un pequeño diagrama hecho por ti (puede ser en draw.io o Canva) que muestre visualmente la diferencia entre un vector, una matriz y un cubo de datos.*  
-> `<img src="ruta/diagrama_arreglos.png" alt="Diagrama de arreglos" width="600"/>`
+> Evidencia
+>
+> <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/93dfe495-63f6-4f9d-947d-e42e38953709" />
+  
+
 
 ---
 
