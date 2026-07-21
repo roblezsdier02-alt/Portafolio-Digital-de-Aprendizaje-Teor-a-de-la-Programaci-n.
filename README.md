@@ -57,7 +57,8 @@ int main() {
 
 > **Evidencia Práctica **  
 >   
-> <img width="351" height="60" alt="image" src="https://github.com/user-attachments/assets/b70b83d5-b3aa-4798-b837-cbd72a4e2546" />
+> <img width="417" height="111" alt="image" src="https://github.com/user-attachments/assets/cc05e8b7-38d4-4fac-8a89-8b59eb8ae5ee" />
+
 
 
 #### Ejemplo 2: Pase de parámetros por REFERENCIA
@@ -80,10 +81,11 @@ int main() {
     return 0;
 }
 ```
+  
+> **Evidencia Práctica **
 
-> 📸 **ACCIÓN REQUERIDA:**  
-> *Sube una captura de la ejecución de este código demostrando cómo el valor original sí fue alterado.*  
-> `<img src="ruta/captura_referencia.png" alt="Ejecución por referencia" width="600"/>`
+> <img width="515" height="121" alt="image" src="https://github.com/user-attachments/assets/24086650-26b1-4b4c-adde-d4a70afc8427" />
+
 
 ---
 
