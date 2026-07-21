@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Puedes reemplazar este enlace con el logo oficial de la UNL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_UNL.png" alt="Logo UNL" width="150"/>
-  
+<p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0249b6fe-8642-4ea1-ba56-dd3e713088fc" /></p>
+
   # UNIVERSIDAD NACIONAL DE LOJA
   ### FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
   ### CARRERA DE COMPUTACIÓN
