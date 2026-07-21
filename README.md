@@ -18,7 +18,7 @@
 </div>
 
 ## Índice
-***1. [Unidad 3](#-unidad-3)***
+1. [Unidad 3](#-unidad-3)
    - [Modularidad](#1-modularidad)
    - [Arreglos y Estructuras de Datos Estáticas](#2-arreglos)
    - [Dificultades y Reflexión Crítica](#3-dificultades-y-reflexión-crítica)
