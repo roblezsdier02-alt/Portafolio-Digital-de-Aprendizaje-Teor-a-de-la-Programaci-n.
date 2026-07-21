@@ -55,9 +55,10 @@ int main() {
 }
 ```
 
-> 📸 **ACCIÓN REQUERIDA (Para Evidencia Práctica - 4 pts):**  
-> *Toma una captura de pantalla de la terminal mostrando la ejecución de este código, donde se evidencie que el valor original no cambia. Reemplaza esta línea con la imagen:*  
-> `<img src="ruta/captura_valor.png" alt="Ejecución por valor" width="600"/>`
+> **Evidencia Práctica **  
+>   
+> `<img width="351" height="60" alt="image" src="https://github.com/user-attachments/assets/b70b83d5-b3aa-4798-b837-cbd72a4e2546" />
+`
 
 #### Ejemplo 2: Pase de parámetros por REFERENCIA
 En el paso por referencia, se envía la **dirección de memoria** de la variable. Las modificaciones dentro de la función afectan directamente a la variable original.
