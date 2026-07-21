@@ -282,6 +282,7 @@ El aprendizaje de la modularidad y de las estructuras de datos estáticas fortal
 # Declaración de uso de la IA generativa
 
 Declaro que durante la elaboración de este portafolio se empleó Inteligencia Artificial generativa (modelo de lenguaje) como herramienta de apoyo para estructurar el formato Markdown en GitHub, generar plantillas base de código y sugerir organización visual. Todo el código final, las reflexiones críticas, compilaciones y diagramas presentados son de mi total auditoría y comprensión, cumpliendo con los estándares de probidad académica de la Universidad Nacional de Loja.
+
 ---
 - [Regresar al inicio](#FacultaddelaEnergía,lasIndustriasylosRecursosNaturalesNoRenovables)
   
