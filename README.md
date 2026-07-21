@@ -57,8 +57,8 @@ int main() {
 
 > **Evidencia Práctica **  
 >   
-> `<img width="351" height="60" alt="image" src="https://github.com/user-attachments/assets/b70b83d5-b3aa-4798-b837-cbd72a4e2546" />
-`
+> <img width="351" height="60" alt="image" src="https://github.com/user-attachments/assets/b70b83d5-b3aa-4798-b837-cbd72a4e2546" />
+
 
 #### Ejemplo 2: Pase de parámetros por REFERENCIA
 En el paso por referencia, se envía la **dirección de memoria** de la variable. Las modificaciones dentro de la función afectan directamente a la variable original.
