@@ -14,7 +14,7 @@
 
 ---
 
-## Información General
+# Información General
 
 | Información | Detalle |
 |:------------|:--------|
@@ -28,13 +28,56 @@
 
 # Índice
 
-- [Unidad 3](#unidad-3)
+##  Portafolio Académico
+
+### Unidades desarrolladas
+
+- 📘 **Unidad 1 – Fundamentos de la Programación**
+  - 🔗 Repositorio:
+    https://github.com/roblezsdier02-alt/portafolioprovisional
+
+- 📗 **Unidad 2 – Programación Estructurada**
+  - 🔗 Repositorio:
+    https://github.com/roblezsdier02-alt/portafolioprovisional/tree/main/Unidad-2
+
+- 📙 [Unidad 3](#unidad-3)
   - [1. Modularidad](#1-modularidad)
   - [2. Arreglos y Estructuras de Datos Estáticas](#2-arreglos-y-estructuras-de-datos-estáticas)
   - [3. Dificultades y Reflexión Crítica](#3-dificultades-y-reflexión-crítica)
+
 - [Conclusiones Generales](#conclusiones-generales)
 - [Bibliografía](#bibliografía)
 - [Declaración de uso de IA](#declaración-de-uso-de-la-ia-generativa)
+
+---
+
+# Acceso a las Unidades del Portafolio
+
+Este portafolio académico se encuentra distribuido en dos repositorios de GitHub con el propósito de organizar el desarrollo de la asignatura.
+
+## 📘 Unidad 1 – Fundamentos de la Programación
+
+En esta unidad se estudiaron los conceptos fundamentales de la programación, incluyendo algoritmos, pseudocódigo, diagramas de flujo, estructuras básicas del lenguaje y resolución de problemas computacionales.
+
+**Repositorio:**
+
+👉 https://github.com/roblezsdier02-alt/portafolioprovisional
+
+---
+
+## 📗 Unidad 2 – Programación Estructurada
+
+En esta unidad se desarrollaron los fundamentos de la programación estructurada mediante el uso de estructuras de control, funciones, manejo de archivos y resolución de problemas utilizando buenas prácticas de programación.
+
+**Repositorio:**
+
+👉 https://github.com/roblezsdier02-alt/portafolioprovisional/tree/main/Unidad-2
+
+---
+
+## 📙 Unidad 3
+
+En esta unidad se estudia la programación modular y el uso de estructuras de datos estáticas, fortaleciendo la organización del código y el manejo eficiente de la información mediante arreglos.
 
 ---
 
@@ -114,7 +157,6 @@ int main() {
 </p>
 
 ---
-
 # 2. Arreglos y Estructuras de Datos Estáticas
 
 ## Teoría
@@ -236,5 +278,10 @@ El aprendizaje de la modularidad y de las estructuras de datos estáticas fortal
 [3] Oracle, *Arrays (The Java™ Tutorials)*, Oracle Documentation, 2023. Disponible en: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
 
 ---
+
 # Declaración de uso de la IA generativa
+
 Declaro que durante la elaboración de este portafolio se empleó Inteligencia Artificial generativa (modelo de lenguaje) como herramienta de apoyo para estructurar el formato Markdown en GitHub, generar plantillas base de código y sugerir organización visual. Todo el código final, las reflexiones críticas, compilaciones y diagramas presentados son de mi total auditoría y comprensión, cumpliendo con los estándares de probidad académica de la Universidad Nacional de Loja.
+---
+- [Regresar al inicio](#FacultaddelaEnergía,lasIndustriasylosRecursosNaturalesNoRenovables)
+  
