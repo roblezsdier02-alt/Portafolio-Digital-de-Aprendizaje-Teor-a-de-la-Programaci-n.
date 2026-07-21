@@ -8,7 +8,7 @@
 
   ---
 
-  # 📑 PORTAFOLIO DIGITAL DE APRENDIZAJE
+  #  PORTAFOLIO DIGITAL DE APRENDIZAJE
 
   [![Universidad](https://img.shields.io/badge/UNL-Loja-E30613?style=for-the-badge&logo=university&logoColor=white)](https://unl.edu.ec)
   [![Carrera](https://img.shields.io/badge/Computaci%C3%B3n-2026-007ACC?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com)
@@ -24,10 +24,10 @@
 
 </div>
 
-## 📑 Índice de Contenidos
+##  Índice de Contenidos
 1. [Unidad 1 (Archivo)](#-unidad-1)
 2. [Unidad 2 (Archivo)](#-unidad-2)
-3. [🚀 Unidad 3: Modularidad y Estructuras de Datos Estáticas](#-unidad-3)
+3. [ Unidad 3: Modularidad y Estructuras de Datos Estáticas](#-unidad-3)
    - [3.1 Modularidad](#1-modularidad)
      - [Ejemplo 1: Paso por Valor](#ejemplo-1-pase-de-par%C3%A1metros-por-valor)
      - [Ejemplo 2: Paso por Referencia](#ejemplo-2-pase-de-par%C3%A1metros-por-referencia)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📁 Unidad 1
+##  Unidad 1
 <details>
 <summary><b>Haz clic aquí para desplegar la información de la Unidad 1</b></summary>
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📁 Unidad 2
+##  Unidad 2
 <details>
 <summary><b>Haz clic aquí para desplegar la información de la Unidad 2</b></summary>
 
@@ -61,9 +61,9 @@
 
 ---
 
-## 🚀 Unidad 3
+##  Unidad 3
 
-> [!NOTE]
+> [!Nota]
 > **Descripción de la Unidad:** En este apartado se consolida el aprendizaje sobre el paradigma de programación modular (descomposición en funciones y procedimientos con manejo de parámetros por valor y referencia) y el uso de estructuras de datos estáticas (vectores, matrices, arreglos multidimensionales y cadenas de caracteres) implementados en **C, Java y Python**.
 
 ---
